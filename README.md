@@ -1,2 +1,2 @@
 # GameLoaderWin
-This repository exists for archival purposes only.
+A game loader for the arduboy system (Windows version)
